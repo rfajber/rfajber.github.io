@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "McGill Atmospheric Transport and Climate Dynamics GRoup"
+title: "McGill Atmospheric Transport and Climate Dynamics Group"
 excerpt: ""
 author_profile: true
 redirect_from: 
