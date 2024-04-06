@@ -23,7 +23,7 @@ redirect_from:
 - Some scholarships to apply to:
   - MSC: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-masters-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp)
   - PHD: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)
-  - McGill: [Macbain](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship), [Master's Student](https://www.mcgill.ca/gps/funding/opportunities/masters), [Phd Students](https://www.mcgill.ca/gps/funding/opportunities/phd), [Eligile grants for International Studens](https://www.mcgill.ca/gps/funding/intl)
+  - McGill: [Macbain](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship), [Tomlinson](https://www.mcgill.ca/gps/funding/fac-staff/awards/tomlinson-doctoral-fellowships) [Master's Student](https://www.mcgill.ca/gps/funding/opportunities/masters), [Phd Students](https://www.mcgill.ca/gps/funding/opportunities/phd), [Eligile grants for International Studens](https://www.mcgill.ca/gps/funding/intl)
 
 ## Postdoctoral Fellows
 - Please reach out if you are interested in a working with me as a postdoc. 
