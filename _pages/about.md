@@ -8,15 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-Note - this page is under development, I will be adding more details soon. For a full list of my publications please see my google scholar page.
-
 # Opportunities
 
-I am in the process of recruiting Grad Students and Postdoctoral Research Fellows. There will be more about this soon, but if you are interested please get in touch any time. 
+## Undergraduate
+- McGill undergraduates interested in working with me on a course based project like ATOC 396/ATOC 480/PHYS 489 are welcome to contact me, I will likely be taking new students in September 2024 or January 2025. 
+- I will likely be taking students for Summer 2025, possible 
+
+## Graduate 
+- McGill admissions are closed for September 2024, but feel free to contact me if you are interested  in applying for future years. 
+- In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
+  - Due to funding limitations at McGill it is difficult to take international MSc students, but we take many international PhD 1 and PhD 2 students. 
+- Some scholarships to apply to:
+  - MSC: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-masters-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp)
+  - PHD: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)
+  - McGill: [Macbain](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship), [Master's Student](https://www.mcgill.ca/gps/funding/opportunities/masters), [Phd Students](https://www.mcgill.ca/gps/funding/opportunities/phd), [Eligile grants for International Studens](https://www.mcgill.ca/gps/funding/intl)
+
+## Postdoctoral Fellows
+- Please reach out if you are interested in a working with me as a postdoc. 
+- McGill Postdoctoral [Funding Oppurtunities](https://www.mcgill.ca/gps/funding/opportunities/postdocs)
 
 # Teaching 
 
-Next semester I will be teaching ATOC 557 -  research methods. More details on this soon. 
+## Winter 2024 - ATOC 557 Research methods
+- https://github.com/rfajber/ResearchMethodsCourse
 
 # Research Topics
 
