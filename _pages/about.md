@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+***
+
 # Opportunities
 
 ## Undergraduate
@@ -27,10 +29,14 @@ redirect_from:
 - Please reach out if you are interested in a working with me as a postdoc. 
 - McGill Postdoctoral [Funding Oppurtunities](https://www.mcgill.ca/gps/funding/opportunities/postdocs)
 
+***
+
 # Teaching 
 
 ## Winter 2024 - ATOC 557 Research methods
 - https://github.com/rfajber/ResearchMethodsCourse
+
+*** 
 
 # Research Topics
 
