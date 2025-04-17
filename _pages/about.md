@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "McGill Large Scale Dynamics Group"
+title: "McGill Climate and Large Scale Dynamics Group"
 excerpt: ""
 author_profile: true
 redirect_from: 
