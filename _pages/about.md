@@ -13,11 +13,11 @@ redirect_from:
 # Opportunities
 
 ## Undergraduate
-- McGill undergraduates interested in working with me on a course based project like ATOC 396/ATOC 480/PHYS 489 are welcome to contact me, I will likely be taking new students in September 2024 or January 2025. 
-- I will likely be taking students for Summer 2025, possible 
+- McGill undergraduates interested in working with me on a course based project like ATOC 396/ATOC 480/PHYS 489 are welcome to contact me, I will be taking new students in September 2025 or January 2026. 
+- If you are interested in working with me over the summer, please reach out to me by early February 2026. It seems early, but there are some awards that will have application deadlines in February or march.
 
 ## Graduate 
-- McGill admissions are closed for September 2024, but feel free to contact me if you are interested  in applying for future years. 
+- McGill admissions are closed for September 2025, but feel free to contact me if you are interested  in applying for future years. 
 - In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
   - Due to funding limitations at McGill it is difficult to take international MSc students, but we take many international PhD 1 and PhD 2 students. 
 - Some scholarships to apply to:
@@ -33,10 +33,32 @@ redirect_from:
 
 # Teaching 
 
-## Winter 2024 - ATOC 557 Research methods
+## Winter 2024 - ATOC 557 Statistical Research methods
 - https://github.com/rfajber/ResearchMethodsCourse
+## Fall 2024 - ATOC 531 Climate Dynamics
+- mostly posted on myCourses
+- some lab material available at https://github.com/rfajber/ClimateDynamicsCourse
+## Winter 2024 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
+- notes posted on myCourses
 
 *** 
+
+# Group Members (Work in Progress)
+
+## Current 
+- Perla Gonzalez (PhD): Stratopsheric Water Biases in Climate Models 
+- Jiechao Zhu (PhD): Surface Water Mass Transformation and AMOC
+- Phillip Boulanger (MSc): Age of Water Vapor Tracers
+- Nicolas Cloarec--Rouat (Exchange MSc Student): Effects of Resolution on Air-Sea Fluxes
+- Claire Hawley (SURA Undergraduate student, with Juliann Wray): Properties of Fronts in Eastern North America with NcCut
+- Jonah Davidson-Harden (USRA Undergraduate student): Tracking Convectively Processed Water Vapor in the UTLS
+
+## Former 
+- Gabriel Lach (CSA group summer student, Honours project): Coupled Extratropical Cyclone and Mesoscale Convective Systems in Observations
+- Jelena Collins (CSA group summer student, now PhD student at Yale): Wildfire Smoke dynamics with the Hysplit model  
+- Elliot Joukakelian (Physics and Computation Honors Thesis, now Scientific Code Developer at ECCC): Data Assimilation with Passive Tracers in a Simple ODE model 
+
+***
 
 # Research Topics
 
