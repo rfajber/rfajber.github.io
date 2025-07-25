@@ -12,12 +12,13 @@ redirect_from:
 
 # Opportunities
 
+## Graduate 
+- **I am not currently accepting graduate students for 2025 or 2026.** 
+
 ## Undergraduate
 <!-- - McGill undergraduates interested in working with me on a course based project like ATOC 396/ATOC 480/PHYS 489 are welcome to contact me, I will be taking new students in September 2025 or January 2026.  -->
 - If you are interested in working with me over the summer, please reach out to me by early February 2026. It seems early, but there are some awards that will have application deadlines in February or march.
 
-## Graduate 
-- **I am not currently accepting graduate students for 2025 or 2026.** 
 
 <!-- - McGill admissions are closed for September 2025, but feel free to contact me if you are interested  in applying for future years.  -->
 <!-- - In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
@@ -45,17 +46,22 @@ redirect_from:
 
 *** 
 
-# Group Members (Work in Progress)
+# Group Members
 
 ## Current 
-- Perla Gonzalez (PhD): Stratopsheric Water Biases in Climate Models 
+- Calvin Coulbruy (PhD): Arctic Cloud Feedbacks
 - Jiechao Zhu (PhD): Surface Water Mass Transformation and AMOC
+- Perla Gonzalez (PhD): UTLS Water Vapor Biases in Climate Models
 - Phillip Boulanger (MSc): Age of Water Vapor Tracers
+- Monica Figueroa (MSc, with Yi Huang): Process based CAPE Generation
 - Nicolas Cloarec--Rouat (Exchange MSc Student): Effects of Resolution on Air-Sea Fluxes
-- Claire Hawley (SURA Undergraduate student, with Juliann Wray): Properties of Fronts in Eastern North America with NcCut
-- Jonah Davidson-Harden (USRA Undergraduate student): Tracking Convectively Processed Water Vapor in the UTLS
+- Claire Hawley and Michelle Rivest (SURA Undergraduate student, with Juliann Wray): Properties of Fronts in Eastern North America with NcCut
+- Jonah Davidson-Harden (USRA Undergraduate student): Localization of Tropical UTLS water vapor 
 
 ## Former 
+### 2025
+- Harrison Miller, Ryan Sontarp, Lindsay Solomon (NSF IRES, with Sarah Lu): Transport of wildfire smoke from the June 2023 Wildfires
+### 2024
 - Gabriel Lach (CSA group summer student, Honours project): Coupled Extratropical Cyclone and Mesoscale Convective Systems in Observations
 - Jelena Collins (CSA group summer student, now PhD student at Yale): Wildfire Smoke dynamics with the Hysplit model  
 - Elliot Joukakelian (Physics and Computation Honors Thesis, now Scientific Code Developer at ECCC): Data Assimilation with Passive Tracers in a Simple ODE model 
