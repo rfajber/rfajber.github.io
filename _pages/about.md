@@ -35,18 +35,24 @@ redirect_from:
 ***
 
 # Teaching 
-## Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
+
+### Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
 - TBD
-## Fall 2024 - ATOC 531 Climate Dynamics
+
+### Fall 2024 - ATOC 531 Climate Dynamics
 - TBD
-## Fall 2026 - BIEN 515 Climate Change and Disease Modelling (with Caroline Wagner and Jill Baumgartner)
+
+### Fall 2026 - BIEN 515 Climate Change and Disease Modelling (with Caroline Wagner and Jill Baumgartner)
 - notes posted on myCourses
-## Winter 2025 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
+
+### Winter 2025 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
 - notes posted on myCourses
-## Fall 2024 - ATOC 531 Climate Dynamics
+
+### Fall 2024 - ATOC 531 Climate Dynamics
 - mostly posted on myCourses
 - some lab material available at https://github.com/rfajber/ClimateDynamicsCourse
-## Winter 2024 - ATOC 557 Statistical Research methods
+
+### Winter 2024 - ATOC 557 Statistical Research methods
 - https://github.com/rfajber/ResearchMethodsCourse
 
 *** 
