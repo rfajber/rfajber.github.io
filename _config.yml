@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert Fajber / Atmospheric Transport and Climate Dynamics"
+title                    : "Robert Fajber Climate Science and Dynamics"
 title_separator          : "-"
 name                     : &name "Robert Fajber"
-description              : &description "Atmospheric Transport and Climate Dynamics"
+description              : &description "Climate Science and Dynamics"
 url                      : https://rfajber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rfajber/rfajber.github.io"
