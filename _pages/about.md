@@ -36,23 +36,28 @@ redirect_from:
 
 # Teaching 
 
-### Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
+## Current 
+
+### Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro to Dynamics)
 - TBD
 
-### Fall 2024 - ATOC 531 Climate Dynamics
+### Winter 2026 - ATOC 531 Dynamics of Current Climates
 - TBD
 
 ### Fall 2026 - BIEN 515 Climate Change and Disease Modelling (with Caroline Wagner and Jill Baumgartner)
 - notes posted on myCourses
 
-### Winter 2025 - ATOC 215 Oceans, Weather, and Climate (Intro Dynamics)
-- notes posted on myCourses
+## Previous
 
-### Fall 2024 - ATOC 531 Climate Dynamics
-- mostly posted on myCourses
+### ATOC 215 Oceans, Weather, and Climate (Intro to Dynamics): 
+- Winter 2025
+
+### ATOC 531 Dynamics of Current Climates
+- Fall 2025
 - some lab material available at https://github.com/rfajber/ClimateDynamicsCourse
 
-### Winter 2024 - ATOC 557 Statistical Research methods
+### ATOC 557 Statistical Research methods
+- Winter 2024
 - https://github.com/rfajber/ResearchMethodsCourse
 
 *** 
@@ -60,14 +65,14 @@ redirect_from:
 # Group Members
 
 ## Current 
-- Phillip Boulanger (Summer Research Assistant, MSc): Age of Water Vapor Tracers
-- Jiechao Zhu (PhD): Surface Water Mass Transformation and AMOC
+- Phillip Boulanger (MSc): Age of Water Vapor Tracers for Climate and Extreme Weather
+- Jiechao Zhu (PhD): Surface Water Mass Transformation and AMOC in Climate Models
 - Perla Gonzalez (PhD): UTLS Water Vapor Biases in Climate Models
-- Calvin Coulbruy (PhD): Arctic Cloud Feedbacks
-- Monica Figueroa (MSc, with Yi Huang): Process based CAPE Generation
-- Gabriel Lach (MSc student with John Gyakum): Coupling of Cyclones, Anti Cyclones, and Fronts
-- Ava Covangelo (MSc, with John Gyakum): Effects of Extreme SSTs on North American Weather
-- Tina Chou (Phd, with Yi Huang): Fireweather in Quebec
+- Calvin Coulbury (PhD): Arctic Cloud Feedbacks in Climate Models
+- Monica Figueroa (MSc, with Yi Huang): Process based CAPE Generation and Tropical Precipiation
+- Gabriel Lach (MSc, with John Gyakum): Coupling of Cyclones, Anti Cyclones, and Fronts
+- Ava Coangelo (MSc, with John Gyakum): Effects of Extreme SSTs on North American Weather
+- Tina Chiu (Phd, with Yi Huang): Fireweather in Quebec
 - Claire Hawley  (SURA Undergraduate student, Honors project, with Juliann Wray and John Gyakum): Properties of Fronts in Eastern North America with NcCut
 - Michelle Rivest (Undergraduate research assistant, Honors project, with Juliann Wray and John Gyakum): Properties of Fronts in Eastern North America with NcCut
 - Jonah Davidson-Harden (USRA Undergraduate student, ESS Honors project): Localization of Tropical UTLS water vapor 
@@ -76,13 +81,14 @@ redirect_from:
 ## Former 
 
 ### 2025
-- Nicolas Cloarec--Rouat (Exchange MSc Student): Effects of Resolution on Air-Sea Fluxes
+- Nicolas Cloarec--Rouat (Exchange MSc Student, now hydrographer in the French Navy): Effects of Resolution on Air-Sea Fluxes
 - Harrison Miller (NSF IRES, with Sarah Lu): Transport of wildfire smoke from the June 2023 Wildfires
 - Ryan Sontarp (NSF IRES, with Sarah Lu): Transport of wildfire smoke from the June 2023 Wildfires
 - Lindsay Solomon (NSF IRES, with Sarah Lu): Transport of wildfire smoke from the June 2023 Wildfires
 
 ### 2024
-- Gabriel Lach (CSA group summer student, Honours project, now MSc student): Coupled Extratropical Cyclone and Mesoscale Convective Systems in Observations
+- Phillip Boulanger (Undergraduate research assistant, now MSc student at McGill): Implementing Age of Water Vapor Tracers in Isca
+- Gabriel Lach (CSA group summer student, Honours project, now MSc student at McGill): Coupled Extratropical Cyclone and Mesoscale Convective Systems in Observations
 - Jelena Collins (CSA group summer student, now PhD student at Yale): Wildfire Smoke dynamics with the Hysplit model  
 - Elliot Joukakelian (Physics and Computation Honors Thesis, now Scientific Code Developer at ECCC): Data Assimilation with Passive Tracers in a Simple ODE model 
 
