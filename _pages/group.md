@@ -5,8 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-# Group Members
-
 ## Current 
 - Phillip Boulanger (MSc): Age of Water Vapor Tracers for Climate and Extreme Weather
 - Jiechao Zhu (PhD): Surface Water Mass Transformation and AMOC in Climate Models

@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching 
-
 ## Current 
 
 ### Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro to Dynamics)
