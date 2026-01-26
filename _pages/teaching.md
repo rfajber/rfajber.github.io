@@ -8,15 +8,16 @@ author_profile: true
 ## Current 
 
 ### Winter 2026 - ATOC 215 Oceans, Weather, and Climate (Intro to Dynamics)
-- TBD
+- Notes Posted on MyCourses
 
 ### Winter 2026 - ATOC 531 Dynamics of Current Climates
-- TBD
+- Notes Posted on MyCourses
 
-### Fall 2026 - BIEN 515 Climate Change and Disease Modelling (with Caroline Wagner and Jill Baumgartner)
-- notes posted on myCourses
 
 ## Previous
+
+###  BIEN 515 Climate Change and Disease Modelling (with Caroline Wagner and Jill Baumgartner)
+- Fall 2026
 
 ### ATOC 215 Oceans, Weather, and Climate (Intro to Dynamics): 
 - Winter 2025
