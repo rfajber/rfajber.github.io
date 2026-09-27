@@ -12,21 +12,17 @@ redirect_from:
 
 # Opportunities
 
-## Graduate 
-- **I am not currently accepting graduate students for 2025 or 2026.** 
-
 ## Undergraduate
-<!-- - McGill undergraduates interested in working with me on a course based project like ATOC 396/ATOC 480/PHYS 489 are welcome to contact me, I will be taking new students in September 2025 or January 2026.  -->
-- If you are interested in working with me over the summer, please reach out to me by early February 2026. It seems early, but there are some awards that will have application deadlines in February or march.
 
+- If you are interested in working with me over the summer, please reach out to me by early February 2027. It seems early, but there are some awards that will have application deadlines in February or March.
 
-<!-- - McGill admissions are closed for September 2025, but feel free to contact me if you are interested  in applying for future years.  -->
-<!-- - In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
-  - Due to funding limitations at McGill it is difficult to take international MSc students, but we take many international PhD 1 and PhD 2 students.  -->
-<!-- - Some scholarships to apply to:
+##Graduate 
+- In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
+  - Due to funding limitations at McGill it is difficult to take international MSc students, but we take many international PhD 1 and PhD 2 students.
+- Some scholarships to apply to:
   - MSC: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-masters-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp)
   - PHD: [FRQNT](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/), [NSERC](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)
-  - McGill: [Masters' Students](https://www.mcgill.ca/gps/funding/opportunities/masters), [Phd Students](https://www.mcgill.ca/gps/funding/opportunities/phd), [Eligile grants for International Studens](https://www.mcgill.ca/gps/funding/intl),  [Macbain](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship), [Tomlinson](https://www.mcgill.ca/gps/funding/fac-staff/awards/tomlinson-doctoral-fellowships) -->
+  - McGill: [Masters' Students](https://www.mcgill.ca/gps/funding/opportunities/masters), [Phd Students](https://www.mcgill.ca/gps/funding/opportunities/phd), [Eligile grants for International Studens](https://www.mcgill.ca/gps/funding/intl),  [Macbain](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship), [Tomlinson](https://www.mcgill.ca/gps/funding/fac-staff/awards/tomlinson-doctoral-fellowships)
 
 ## Postdoctoral Fellows
 - Please reach out if you are interested in a working with me as a postdoc. 
