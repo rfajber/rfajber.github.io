@@ -16,7 +16,7 @@ redirect_from:
 
 - If you are interested in working with me over the summer, please reach out to me by early February 2027. It seems early, but there are some awards that will have application deadlines in February or March.
 
-##Graduate 
+## Graduate 
 - In general McGill AOS recruits students for MSc, PhD 1 (no MSc upon entry) and PhD 2 (already have an MSc upon entry)  
   - Due to funding limitations at McGill it is difficult to take international MSc students, but we take many international PhD 1 and PhD 2 students.
 - Some scholarships to apply to:
